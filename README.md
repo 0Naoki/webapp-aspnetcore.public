@@ -1,2 +1,5 @@
-# webapp-aspnetcore
-Sample ASP.NET Core Web Application
+# Sample ASP.NET Core Web Application
+
+## Technologies overview
+
+## Architecture overview
